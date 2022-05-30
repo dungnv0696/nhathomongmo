@@ -1,17 +1,19 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Full-time Data Scientist, Viettel Data Governance Department
+  from: Apr 2021
+  to: Present
+  description: Developing Viettel Machine Learning Platform, which is a no-code/low-code platform providing an all-in-one solution for developing, optimizing, deploying, managing and monitoring Machine Learning workflow based on AutoML (Tabular prediction, clustering, time-series forecasting and recommendation system) and MLOps. Viettel Machine Learning was honored with the Sao Khue Award 2021, the Vietnam Digital Awards 2021 and the IT World Awards 2022. 
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Full-time Data Scientist, Viettel Data Governance Department
+  from: Aug 2020
+  to: Apr 2021
+  description: Applying machine learning algorithms and nature language processing techniques to build a hybrids e-voucher recommendation system for existing customers and new customers (cold-start problems). Building a data pipeline for serving model in near real-time.  
+
+- title: Full-time Data Scientist, Viettel Data Analytics Center
+  from: Jul 2020
+  to: Aug 2020
+  description: Applying machine learning algorithms that use customer behavior data - such as a user's purchase history, user's call/sms history, total spent amount of user,... to predict potential customer and best data package for up-selling, cross-selling. Moreover, I predicted the probability of decreasing revenue from customers to reduce churn rate. 
+
+- title: Engineer's degree, Computer Science, Hanoi University of Science and Technology
+  from: Aug 2016
+  to: Apr 2021
+  description: Grade: 3.61, the highest early graduation score.

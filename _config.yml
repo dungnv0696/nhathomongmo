@@ -3,8 +3,8 @@ title               : nhathomongmo
 description         : >-
                       i  = 0x5f3759df - ( i >> 1 );
 baseurl             : "/nhathomongmo"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : dungnv0696/nhathomongmo     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-remote_theme        : dungnv0696/nhathomongmo
+#repository          : dungnv0696/nhathomongmo     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+#remote_theme        : dungnv0696/nhathomongmo
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
@@ -15,15 +15,15 @@ plugins:
 
 ### Navbar Settings ###
 nav_exclude:                                            # The following paths are excluded from navbar
-  - nhathomongmo/pages/tags.html
-  - nhathomongmo/pages/404.html
-  - nhathomongmo/pages/index.md
+  - pages/tags.html
+  - pages/404.html
+  - pages/index.md
 
 
 ### Author Info ###
 author:
   name              : Nguyễn Việt Dũng
-  image             : https://i.imgur.com/uyDNQnn.jpg
+  image             : https://i.imgur.com/Dz0Ewr9.jpg
 # behance           : your_username
 # dribbble          : your_username
   email             : dungnv0696@gmail.com
