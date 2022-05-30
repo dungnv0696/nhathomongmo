@@ -3,8 +3,8 @@ title               : nhathomongmo
 description         : >-
                       i  = 0x5f3759df - ( i >> 1 );
 baseurl             : "/nhathomongmo"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-#repository          : dungnv0696/nhathomongmo     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-#remote_theme        : dungnv0696/nhathomongmo
+repository          : dungnv0696/nhathomongmo     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+remote_theme        : dungnv0696/nhathomongmo
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
