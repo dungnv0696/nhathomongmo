@@ -23,7 +23,7 @@ Phân tích dữ liệu không chỉ là một giải pháp phụ trợ hoặc t
 
 Trước khi đi vào cụ thể phương pháp ứng dụng phân tích dữ liệu, các tổ chức cần phải nắm rõ mức độ trưởng thành hiện tại của doanh nghiệp trong lĩnh vực Big Data.
 
-![Big Data Business Model Maturity Index](/nhathomongmo/assets/img/big_data_business_model_maturity_index.png)
+![Big Data Business Model Maturity Index](https://dungnv0696.github.io/nhathomongmo/assets/img/big_data_business_model_maturity_index.png)
 
 
 
