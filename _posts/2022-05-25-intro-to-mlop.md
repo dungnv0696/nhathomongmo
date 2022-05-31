@@ -1,16 +1,18 @@
 ---
-title: Introducing to MLOps
-tags: [MLOps]
+title: Business Potential of Big Data
+tags: [DASCA]
 style: fill
 color: secondary
 comments: true
-description: Introducing to MLOps.
+description: Business Potential of Big Data
 ---
 
 
 ***
+
 ***Bài viết được mình tổng hợp dựa trên cuốn sách The Data Science Handbook - I của DASCA cùng với những kinh nghiệm thực tế của bản thân đúc kết trong quá trình học tập và làm việc.
 Vì vậy mong mọi người nếu có nhu cầu sử dụng để tham khảo thì có thể ghi lại nguồn giúp mình nhé.***
+
 ***
 
 # The Art & Science of Driving Business
