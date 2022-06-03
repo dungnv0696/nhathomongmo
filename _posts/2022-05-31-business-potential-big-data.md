@@ -7,14 +7,6 @@ comments: true
 description: Business Potential of Big Data
 ---
 
-
-***
-
-***Bài viết được mình tổng hợp dựa trên cuốn sách The Data Science Handbook - I của DASCA cùng với những kinh nghiệm thực tế của bản thân đúc kết trong quá trình học tập và làm việc.
-Vì vậy mong mọi người nếu có nhu cầu sử dụng để tham khảo thì có thể ghi lại nguồn giúp mình nhé.***
-
-***
-
 # The Art & Science of Driving Business
 ## Part I. Business Potential of Big Data
 ### Chapter 1. The Big Data Business Mandate
@@ -60,3 +52,26 @@ Một vài ví dụ về các tổ chức hàng đầu tạo nên sự khác bi�
 - GE: Asset Optimization and Operations Optimization (Predix)
 
 #### 1.4. History Lesson on Economic-Driven Business Transformation
+Big Data mang lại tiềm năng to lớn như tạo nên thành phố thông minh, cải thiện chất lượng y tế, cải thiện hiệu quả giáo dục, giảm thiểu rủi ro, thậm chí là điều trị ung thư. Đối với doanh nghiệp, câu hỏi đầu tiên cần đặt ra về Big Data là:
+"__How effective is my organization at leveraging new sources of data and advanced analytics to uncover new customer, product, operational insights that can be used to differentiate our customer engagement, optimize key business processes, and uncover new monetization opportunities__"
+
+Trong suốt lịch sử, việc đổi mới sáng tạo trong công nghệ đem lại vô vàn hiệu quả kinh tế:
+
+| TECHNOLOGY INNOVATION                                 | ECONOMIC IMPACT                                                                                                                                                  |
+|-------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Máy in (__Printing Press__)                           | Mở rộng giáo dục bằng cách lưu lại tri thức một cách đơn giản, phổ cập đại chúng giáo dục (__Expanded literacy__)                                                |
+| Linh kiện thay thế (__Interchangeable Parts__)        | Chuẩn hóa linh kiện chế tạo và linh kiện trong cách mạng công nghiệp (__Drove the standardization of manufacturing parts and fueled the industrial revolution__) |
+| Động cơ hơi nước (__Steam Engine__)                   | Thúc đẩy đô thị hóa (__Sparked urbanization__)                                                                                                                   |
+| Đông cơ đốt trong (__Internal Combustion Engine__)    | Thúc đẩy ngoại ô hóa (__Triggered suburbanization__)                                                                                                             |
+| Hệ thống đường cao tốc liên bang (__Highway System__) | Nền tảng cho thương mại hóa liên bang (__Foundation for interstate commerce__)                                                                                   |
+| Điện thoại (__Telephone__)                            | Dân chủ hóa trong giao tiếp, liên lạc (__Democratized communications__)                                                                                          |
+| Máy tính (__Computers__)                              | Tự động hóa các quy trình phổ biến, thúc đẩy sáng tạo (__Automated common processes__)                                                                           |
+| Mạng internet (__Internet__)                          | Giảm thiểu chi phí thương mại và chia sẻ kiến thức (__Gutted cost of commerce and knowledge sharing__)                                                           |
+
+Trở lại với Big Data, tất cả các đổi mới sáng tạo đều rút ra một bài học chung là:
+"__It wasn't the technology that was disruptive; it was how organizations leveraged the technology to disrupt existing business models and enabled new ones__"
+
+#### 1.5 Critical Importance of "Thinking Differently"
+
+![Thinking Differently](https://dungnv0696.github.io/nhathomongmo/assets/img/thinking_differently.png)
+
