@@ -34,4 +34,11 @@ Big Data Business Model Maturity Index bao gồm 5 giai đoạn:
 Internal data có thể bao gồm các bình luận của khách hàng đối với sản phẩm, các email trao đổi, lịch sử tìm kiếm, giao dịch,... External data có thể bao gồm dữ liệu mạng xã hội, thời tiết, tình hình kinh tế, nhân khẩu học, các sự kiện đặc biệt,... 
 - __Phase 3: Business Optimization__. Trong giai đoạn này, doanh nghiệp ứng dụng các phân tích mô tả về khách hàng, sản phẩm, thông tin tương tác được khám phá ở bước Business Insights để chuyển thành các thông tin hữu ích hoặc các gợi ý cho khách hàng. Mục đích chính của giải đoạn này là giúp cho khách hàng có thể tối ưu quyết định quan trọng của chính họ.(__Apply prescriptive analytics uncovered in Business Insights phase to deliver actionable insights or recommendations to customers. The goal is to enable customers to optimize their key decision__)
 - __Phase 4: Data Monetization__. Trong giai đoạn này, doanh nghiệp tận dụng dữ liệu khách hàng, sản phẩm, thông tin tương tác để tạo nên nguồn doanh thu mới. 
-- __Phase 5: Business Metamorphosis__
+- __Phase 5: Business Metamorphosis__: Giai đoạn cuối cùng là giai đoạn mà doanh nghiệp chuyển dịch mô hình kinh doanh từ việc bán các sản phẩm qua việc bán "dịch vụ kinh doanh" (__transitions business model from selling products to selling "business-as-a-services"__). Trong giai đoạn này, doanh nghiệp sẽ tạo các nền tảng cho các nhà phát triển bên thứ 3 để xây dựng và kinh doanh các giải pháp. (__create a platform enabling third-party developers to build and market solutions__).
+
+__KEY__: Big data chỉ là vấn đề cần xem xét đến khi nó giúp doanh nghiệp tạo thêm nguồn thu nhập và cải thiện hoạt động một cách hiệu quả. (__Big data only matters if it helps organizations make more money and improve operational effectiveness__)
+
+#### 1.2. Focus Big Data on Driving Competitive Differentiation
+Việc đầu tư vào công nghệ giúp doanh nghiệp thúc đẩy cạnh tranh công bằng và tạo ra lợi thế cạnh tranh:
+- Competitive parity: Khi doanh nghiệp có khả năng tương đương hoặc tương tự đối với đối thủ cạnh tranh (__achieving similar or same operational capabilities as competitors__). Doanh nghiệp có thể mua các gói phần mềm doanh nghiệp như Enterprise Resource Planning, Customer Relationship Management, Sales Force Automation. (__Buy enterprise software packages such as ERP, CRM, SFA__)
+- Competitive differentiation: 
