@@ -41,4 +41,22 @@ __KEY__: Big data chỉ là vấn đề cần xem xét đến khi nó giúp doan
 #### 1.2. Focus Big Data on Driving Competitive Differentiation
 Việc đầu tư vào công nghệ giúp doanh nghiệp thúc đẩy cạnh tranh công bằng và tạo ra lợi thế cạnh tranh:
 - Competitive parity: Khi doanh nghiệp có khả năng tương đương hoặc tương tự đối với đối thủ cạnh tranh (__achieving similar or same operational capabilities as competitors__). Doanh nghiệp có thể mua các gói phần mềm doanh nghiệp như Enterprise Resource Planning, Customer Relationship Management, Sales Force Automation. (__Buy enterprise software packages such as ERP, CRM, SFA__)
-- Competitive differentiation: 
+- Competitive differentiation: Khi doanh nghiệp tận dụng được nguồn nhân lực, quy trình, công nghệ để tạo nên các ứng dụng, chương trình, tiến trình,... để tạo nên các sản phẩm, dịch vụ riêng biệt, mang lại giá trị đặc biệt cho khách hàng, từ đó tạo nên lợi thế cạnh tranh. (__leverages people, process, and technology to create applications, programs, processes, etc., that differerentiate its products and services in ways that add unique value for the end customer and create competitive differentiation in the marketplace__).
+
+Các doanh nghiệp dẫn đầu nên "mua" các giải pháp, nền tảng không mang tính cạnh tranh và tập trung vào "xây dựng" các giải pháp mang tính cạnh tranh, tạo nên giá trị đặc biệt cho khách hàng. Tuy nhiên một số tổ chức thì phân vân không biết giữa 2 lựa chọn. Điều này được gọi là __ERP effect__.
+
+#### 1.3. Leveraging Technology to Power Competitive Differentiation
+Một vài ví dụ về các tổ chức hàng đầu tạo nên sự khác biệt bằng cách sử dụng nguồn dữ liệu mới và phân tích dữ liệu:
+- Google: PageRank and Ad Serving
+- Yahoo: Behavioral Targeting and Retargeting
+- Facebook: Ad Serving and News Feed
+- Apple: iTunes
+- Netflix: Movie Recommendations
+- Amazon: "Customers Who Bought This Item, " 1-Click ordering, and Supply Chain & Logistics
+- Walmart: Demand Forecasting, Supply Chain Logistics, and Retail Link
+- Procter & Gamble: Brand and Category Management
+- Federal Express: Critical Inventory Logistics
+- American Express and Visa: Fraud Detection
+- GE: Asset Optimization and Operations Optimization (Predix)
+
+#### 1.4. History Lesson on Economic-Driven Business Transformation
