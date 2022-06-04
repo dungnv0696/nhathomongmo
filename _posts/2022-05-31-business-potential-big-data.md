@@ -75,3 +75,13 @@ Trở lại với Big Data, tất cả các đổi mới sáng tạo đều rút
 
 ![Thinking Differently](https://dungnv0696.github.io/nhathomongmo/assets/img/thinking_differently.png)
 
+### Chapter 2. Big Data Business Model Maturity Index
+Ở chương này, ta đi sâu vào từng giai đoạn trong Big Data Business Model Maturity Index.
+#### 2.1.  Business Monitoring
+Giai đoạn Business Monitoring là giai đoạn doanh nghiệp sẽ triển khai __Business Intelligence (BI)__ và giải pháp __Data warehouse__ để giám sát hiệu quả kinh doanh (__monitor ongoing business performance__). Trong giai đoạn này, doanh nghiệp sẽ tạo nên các __reports__ và __dashboards__ để giám sát hiện trạng kinh doanh, đánh dấu các phần không đạt hiệu quả kinh doanh hoặc các phần hiệu quả kinh doanh vượt mức và đưa ra cảnh báo.
+
+Ở giai đoạn mở đầu của việc ứng dụng Big Data này, các doanh nghiệp sẽ đầu tư thời gian, nỗ lực, tiền bạc để xác định và làm tài liệu về các quy trình kinh doanh quan trọng (__indentify and document key business processes__), những thứ mà giúp doanh nghiệp trở nên đặc biệt và thành công. Họ sẽ kết hợp dữ liệu, làm sạch dữ liệu, chuẩn hóa dữ liệu, làm giàu dữ liệu và tích hợp với những nguồn dữ liệu tương tác quan trọng. (__assemble, clean, normalize, enrich, and intergrate the key operational data sources__). Họ xây dựng các __data model__ và __data architecture__ một cách cẩn thận và tạo nên vô số __reports__, __dashboards__ và __alert__ xung quanh các hoạt động quan trọng và các metrics đánh giá hoạt động kinh doanh.
+
+Tuy nhiên, để vượt qua giai đoạn này cũng là một thách thức lớn đó là:
+- Sức ì, sự lười thay đổi (__The inertia__) được hình thành từ nhiều năm, nhiều thập kỉ sẽ chống lại cách tiếp tận "think differently", thứ cần thiết để khai thác triệt để tiềm năng của Big Data để tạo nên giá trị kinh doanh.
+- Lợi nhuận tài chính chỉ được tạo ra khi đạt đến giai đoạn Business Optimization. __(Financial payoff)
