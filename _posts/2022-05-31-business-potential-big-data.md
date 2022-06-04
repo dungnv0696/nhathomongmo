@@ -53,6 +53,7 @@ Một vài ví dụ về các tổ chức hàng đầu tạo nên sự khác bi�
 
 #### 1.4. History Lesson on Economic-Driven Business Transformation
 Big Data mang lại tiềm năng to lớn như tạo nên thành phố thông minh, cải thiện chất lượng y tế, cải thiện hiệu quả giáo dục, giảm thiểu rủi ro, thậm chí là điều trị ung thư. Đối với doanh nghiệp, câu hỏi đầu tiên cần đặt ra về Big Data là:
+
 "__How effective is my organization at leveraging new sources of data and advanced analytics to uncover new customer, product, operational insights that can be used to differentiate our customer engagement, optimize key business processes, and uncover new monetization opportunities__"
 
 Trong suốt lịch sử, việc đổi mới sáng tạo trong công nghệ đem lại vô vàn hiệu quả kinh tế:
@@ -69,6 +70,7 @@ Trong suốt lịch sử, việc đổi mới sáng tạo trong công nghệ đe
 | Mạng internet (__Internet__)                          | Giảm thiểu chi phí thương mại và chia sẻ kiến thức (__Gutted cost of commerce and knowledge sharing__)                                                           |
 
 Trở lại với Big Data, tất cả các đổi mới sáng tạo đều rút ra một bài học chung là:
+
 "__It wasn't the technology that was disruptive; it was how organizations leveraged the technology to disrupt existing business models and enabled new ones__"
 
 #### 1.5 Critical Importance of "Thinking Differently"
