@@ -86,4 +86,4 @@ Giai đoạn Business Monitoring là giai đoạn doanh nghiệp sẽ triển kh
 
 Tuy nhiên, để vượt qua giai đoạn này cũng là một thách thức lớn đó là:
 - Sức ì, sự lười thay đổi (__The inertia__) được hình thành từ nhiều năm, nhiều thập kỉ sẽ chống lại cách tiếp tận "think differently", thứ cần thiết để khai thác triệt để tiềm năng của Big Data để tạo nên giá trị kinh doanh.
-- Lợi nhuận tài chính chỉ được tạo ra khi đạt đến giai đoạn Business Optimization. __(Financial payoff)
+- Lợi nhuận tài chính chỉ được tạo ra khi đạt đến giai đoạn Business Optimization. (__Financial payoff isn't realized until Business Optimization phase__)
