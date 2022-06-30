@@ -87,3 +87,36 @@ Giai đoạn Business Monitoring là giai đoạn doanh nghiệp sẽ triển kh
 Tuy nhiên, để vượt qua giai đoạn này cũng là một thách thức lớn đó là:
 - Sức ì, sự lười thay đổi (__The inertia__) được hình thành từ nhiều năm, nhiều thập kỉ sẽ chống lại cách tiếp tận "think differently", thứ cần thiết để khai thác triệt để tiềm năng của Big Data để tạo nên giá trị kinh doanh.
 - Lợi nhuận tài chính chỉ được tạo ra khi đạt đến giai đoạn Business Optimization. (__Financial payoff isn't realized until Business Optimization phase__)
+
+#### 2.2. Business Insight
+Giai đoạn Business Insight là giai đoạn doanh nghiệp sẽ kết hợp lượng dữ liệu ngày càng lớn gồm dữ liệu bên trong và bên ngoài, có cấu trúc và phi cấu trúc với các phân tích mô tả để tìm các thông tin tri thức về khách hàng, sản phẩm hay các hoạt động tương tác. Điều này cũng có nghĩa là phát hiện các điểm bất thường trong dữ liệu như hành vi, xu hướng,... những thông tin đáng để doanh nghiệp quan tâm
+
+Thông tin tri thức được khai phá bằng phân tích dự đoán cần được đánh giá qua S.A.M test:
+- Strategy: Các thông tin tri thức mang tính chiến lược đối với hoạt động kinh doanh
+- Actionable: Các thông tin tri thức có thể được doanh nghiệp sử dụng để tác động đối với đối tượng kinh doanh chính của doanh nghiệp (khách hàng, sản phẩm,...)
+- Material: Giá trị, lợi ích mang lại khi thực hiện tác động dựa trên thông tin tri thức lớn hơn chi phí để thực hiện
+
+##### Business Insights Phase Challenge
+Đây là giai đoạn khó nhất trong Big Data Business Model Maturity Index vì những nguyên nhân sau:
+- yêu cầu doanh nghiệp phải "think differently" về cách thức tiếp cận phân tích dữ liệu. 
+- Những quy tắc, kỹ thuật và cách thức tiếp cận hiệu quả đối với BI và data warehouse nhưng có thể không cần thiết để áp dụng vào Big Data.
+- ROI (Return on Investment) không thể hiện cho tới giai đoạn Business Optimization.
+
+Giai đoạn này còn được gọi là giai đoạn "Crossing the analytics chasm": 
+- The Analytics Chasm: Chuyển tiếp từ việc sử dụng dữ liệu lịch sử để phân tích mô tả sang phân tích dự đoán.
+
+#### 2.3. Business Optimization
+Giai đoạn Business Optimization là giai đoạn doanh nghiệp phát triển _phân tích dự đoán_ (_predictive analytics_) và _phân tích đề xuất_ (_prescriptive analytics_)
+để tối ưu mục tiêu kinh doanh. Giai đoạn này được xây dựng dựa trên các thông tin tri thức phân tích được từ giai đoạn Business Insights, sau đó xây dựng các mô hình dự đoán và đề xuất xung quanh các thông tin tri thức đó. Giai đoạn này còn được gọi là giai đoạn "Tell me what I need to do".
+
+Giai đoạn này sẽ giúp doanh nghiệp trong các đầu việc sau:
+- Cung cấp thông tin hữu ích cho nhân viên tuyến đầu và bộ phận quản lý để giúp họ ra quyết định tốt hơn (__Deliver actionable insights such as recommendations, scores, rules, etc. to make better decisions__)
+- Tác động hành vi khách hàng bằng cách phân tích các mô hình, xu hướng, hành vi trong quá khứ của khách hàng, từ đó đưa ra các khuyến nghị hữu ích (__seek to influence customer purchase and engagement behaviors by analyzing the customer's past purchase partterns, behaviors, and tendencies in order to deliver relevant and actionable recommendations.__)
+- Tích hợp các phân tích và đề xuất về khách hàng, sản phẩm, hoạt động tương tác trở lại hệ thống vận hành như call center, sales force automation, logistics, inventory,... hay các hệ thống ứng dụng quản lý như reports, dashboard bằng các bảng biểu hay các đồ thị. (__integrate the customer, production, and operational presciptive analytics or recommendations back into the operational system and management applications system__)
+
+#### 2.4. Data Monetization
+Giai đoạn Data Monetization là giai đoạn doanh nghiệp có thể tận dụng được các thông tin tri thức thu thập được từ giai đoạn Business Insights và giai đoạn Business Optimization để tạo nên cơ hội kinh doanh mới, chẳng hạn:
+- Packaging data (with analytics insights) for sale to other organizations
+- Integrating analytic insights directly into an organization's products and services to create "intelligent" products or services.
+- Repackaging insights
+
