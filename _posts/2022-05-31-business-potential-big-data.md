@@ -125,8 +125,8 @@ Giai đoạn Business Metamorphosis là giai đoạn doanh nghiệp sẽ tìm c�
 - Công ty năng lượng chuyển dịch sang dịch vụ "Tối ưu trạm năng lượng" - Dự đoán các trạm cần bảo dưỡng
 - Các cửa hàng bán lẻ chuyển dịch sang dịch vụ "Tối ưu mua sắm" - Gợi ý sản phẩm phù hợp với khách hàng
 
-#### 2.6 Lessons learned (3 lessons)
-##### 2.6.1. Lesson 1: Focus Initial Big Data Efforts Internally
+#### Lessons learned (3 lessons)
+##### Lesson 1: Focus Initial Big Data Efforts Internally
 Ba giai đoạn đầu của Big Data Business Model Maturity tập trung vào tối ưu quy trình nội bộ (__internal process optimization__), áp dụng 4 Big data value drivers:
 - Access to all the organization’s detailed transactional and operational data at the lowest level of granularity (at the individual customer, machine, or device level).
 - Integration of unstructured data from both internal (consumer comments, e-mail threads, technician notes) and external sources (social media, mobile, publicly available) with the detailed transactional and operational data to provide new metrics and new dimensions against which to optimize key business processes.
@@ -135,12 +135,20 @@ Ba giai đoạn đầu của Big Data Business Model Maturity tập trung vào t
 
 ![Optimize internal processes](https://dungnv0696.github.io/nhathomongmo/assets/img/optimize_internal_processes.png)
 
-##### 2.6.2. Lesson 2: Leverage Insights to Create New Monetization Opportunities 
+##### Lesson 2: Leverage Insights to Create New Monetization Opportunities 
 Hai giai đoạn sau của Big Data Business Model Maturity tập trung vào cơ hội kinh doanh ở thị trường bên ngoài doanh nghiệp (__external market opportunities__). Đây là những giai đoạn "4 Ms" của Big Data Business Model Maturity, khi mà doanh nghiệp tận dụng phân tích dữ liệu để tạo nên cơ hội để "__Make Me More Money__"
 
 ![Create new monetization opportunities](https://dungnv0696.github.io/nhathomongmo/assets/img/create_new_monetization_opportunities.png)
 
-##### 2.6.3. Lesson 3: Preparing for organizational Transformation
+##### Lesson 3: Preparing for organizational Transformation
+Để tích hợp phân tích dữ liệu vào mô hình kinh doanh, doanh nghiệp cần:
+- Treat Data as an Asset
+- Legally Protect Your Analytics Intellectual Property
+- Get Comfortable Using Data to Guide Decisions. "Highest Paid Person's Opinion" (HIPPO)
+
+### Chapter 3. The Big Data Strategy Document
+#### 3.1. Establishing Common Business Terminology
+
 
 
 
