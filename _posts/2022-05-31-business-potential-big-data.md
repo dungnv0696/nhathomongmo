@@ -116,7 +116,31 @@ Giai đoạn này sẽ giúp doanh nghiệp trong các đầu việc sau:
 
 #### 2.4. Data Monetization
 Giai đoạn Data Monetization là giai đoạn doanh nghiệp có thể tận dụng được các thông tin tri thức thu thập được từ giai đoạn Business Insights và giai đoạn Business Optimization để tạo nên cơ hội kinh doanh mới, chẳng hạn:
-- Packaging data (with analytics insights) for sale to other organizations
-- Integrating analytic insights directly into an organization's products and services to create "intelligent" products or services.
-- Repackaging insights
+- Bán dữ liệu và thông tin tri thức từ dữ liệu cho các tổ chức khác (__Packaging data with analytics insights for sale to other organizations__)
+- Tích hợp phân tích dữ liệu vào sản phẩm và dịch vụ hiện có nhằm tạo nên sản phẩm, dịch vụ thông minh hơn (__Integrating analytic insights directly into an organization's products and services to create "intelligent" products or services.__)
+- Sử dụng dữ liệu và thông tin tri thức từ dữ liệu để tạo nên sản phẩm, dịch vụ hoàn toàn mới (__Repackaging insights to create entirely new products and services to enter new markets and target new customers or audiences__)
+
+#### 2.5. Business Metamorphosis
+Giai đoạn Business Metamorphosis là giai đoạn doanh nghiệp sẽ tìm cách tận dụng phân tích dữ liệu để chuyển dịch mô hình kinh doanh (processes, people, products, services, partnerships, target markets, management, promotions, rewards and incentives). Ví dụ:
+- Công ty năng lượng chuyển dịch sang dịch vụ "Tối ưu trạm năng lượng" - Dự đoán các trạm cần bảo dưỡng
+- Các cửa hàng bán lẻ chuyển dịch sang dịch vụ "Tối ưu mua sắm" - Gợi ý sản phẩm phù hợp với khách hàng
+
+#### 2.6 Lessons learned (3 lessons)
+##### 2.6.1. Lesson 1: Focus Initial Big Data Efforts Internally
+Ba giai đoạn đầu của Big Data Business Model Maturity tập trung vào tối ưu quy trình nội bộ (__internal process optimization__), áp dụng 4 Big data value drivers:
+- Access to all the organization’s detailed transactional and operational data at the lowest level of granularity (at the individual customer, machine, or device level).
+- Integration of unstructured data from both internal (consumer comments, e-mail threads, technician notes) and external sources (social media, mobile, publicly available) with the detailed transactional and operational data to provide new metrics and new dimensions against which to optimize key business processes.
+- Leverage real-time (or right-time) data analysis to accelerate the organization’s ability to identify and act on customer, product, and market opportunities in a timelier manner.
+- Apply predictive analytics and data mining to uncover customer, product, and operational insights or areas of “unusualness” buried in the massive volumes of detailed structured and unstructured data that are worthy of further business investigation.
+
+![Optimize internal processes](https://dungnv0696.github.io/nhathomongmo/assets/img/optimize_internal_processes.png)
+
+##### 2.6.2. Lesson 2: Leverage Insights to Create New Monetization Opportunities 
+Hai giai đoạn sau của Big Data Business Model Maturity tập trung vào cơ hội kinh doanh ở thị trường bên ngoài doanh nghiệp (__external market opportunities__). Đây là những giai đoạn "4 Ms" của Big Data Business Model Maturity, khi mà doanh nghiệp tận dụng phân tích dữ liệu để tạo nên cơ hội để "__Make Me More Money__"
+
+![Create new monetization opportunities](https://dungnv0696.github.io/nhathomongmo/assets/img/create_new_monetization_opportunities.png)
+
+##### 2.6.3. Lesson 3: Preparing for organizational Transformation
+
+
 
