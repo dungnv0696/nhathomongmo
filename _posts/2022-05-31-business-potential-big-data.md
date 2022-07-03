@@ -148,6 +148,19 @@ Hai giai đoạn sau của Big Data Business Model Maturity tập trung vào cơ
 
 ### Chapter 3. The Big Data Strategy Document
 #### 3.1. Establishing Common Business Terminology
+![Big data strategy process](https://dungnv0696.github.io/nhathomongmo/assets/img/Big_data_strategy_process.png)
+
+Trước tiên đi vào xây dựng tài liệu chiến lược Big Data, ta cần phải hiểu rõ quy trình chiến lược Big Data:
+- **Corporate Mission**: Sứ mệnh của tổ chức sẽ trả lời cho câu hỏi **Why**, lí do tổ chức tồn tại. Chẳng hạn sứ mệnh của The Walt Disney là "to be one of the world's leading producers and providers of entertainment and information"
+- **Business Strategy**: Chiến lược kinh doanh sẽ trả lời cho câu hỏi **How**, làm thế nào tổ chức đạt được sứ mệnh được đặt ra trong thời gian sắp tới.
+- **Strategic Business Initiatives**: Kế hoạch chiến lược kinh doanh sẽ trả lời cho câu hỏi **What**, kế hoạch của tổ chức là gì để đạt được chiến lược kinh doanh trong thời gian sắp tới, thường bao gồm mục tiêu kinh doanh, mục tiêu tài chính, chỉ tiêu và khung thời gian. (business objectives, financial targets, metrics, and time frames.)
+- **Business Entities**: Là các thực thể hay đối tượng vật lý (khách hàng, trạm năng lượng, tàu hỏa,...) mà Strategic Business Initiatives muốn tìm hiểu, dự đoán, tác động tới hành vi (người) hay hiệu suất (vật). Đôi khi Business Entities được gọi là **Strategic Nouns**.
+- **Business Stakeholders**: Là những chức năng kinh doanh (sales, marketing, finance, store operations, logistics,...) ảnh hưởng hoặc bị ảnh hưởng bởi Strategic Business Initiatives.
+- **Business Decision**: Là những quyết định mà Business Stakeholders cần để hỗ trợ cho Strategic Business Initiatives.
+- **Big Data Use cases**: Là những **analytic use cases** (bao gồm các quyết định và hành động tương ứng) hỗ trợ cho Strategic Business Initiatives
+- **Data**: Nguồn dữ liệu có cấu trúc hoặc phi cấu trúc, cả nguồn dữ liệu nội bộ hoặc nguồn dữ liệu bên ngoài, được xác định xuyên suốt quy trình chiến lược Big Data
+
+![big data strategy document](https://dungnv0696.github.io/nhathomongmo/assets/img/big_data_strategy_document.png)
 
 
 
