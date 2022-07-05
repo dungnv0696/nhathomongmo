@@ -18,7 +18,6 @@ Phân tích dữ liệu không chỉ là một giải pháp phụ trợ hoặc t
 Trước khi đi vào cụ thể phương pháp ứng dụng phân tích dữ liệu, các tổ chức cần phải nắm rõ mức độ trưởng thành hiện tại của doanh nghiệp trong lĩnh vực Big Data:
 
 ![Big Data Business Model Maturity Index](https://dungnv0696.github.io/nhathomongmo/assets/img/big_data_business_model_maturity_index.png)
-Figure 1-1: Big Data Business Model Maturity Index
 
 Big Data Business Model Maturity Index bao gồm 5 giai đoạn:
 - __Phase 1: Business Monitoring__. Trong giai đoạn này, doanh nghiệp sẽ tận dụng __Data Warehouse__ và __Business Intelligence__ để giám sát hiệu suất (__Monitor performance__) của tổ chức. 
@@ -152,16 +151,33 @@ Hai giai đoạn sau của Big Data Business Model Maturity tập trung vào cơ
 
 Trước tiên đi vào xây dựng tài liệu chiến lược Big Data, ta cần phải hiểu rõ quy trình chiến lược Big Data:
 - **Corporate Mission**: Sứ mệnh của tổ chức sẽ trả lời cho câu hỏi **Why**, lí do tổ chức tồn tại. Chẳng hạn sứ mệnh của The Walt Disney là "to be one of the world's leading producers and providers of entertainment and information"
-- **Business Strategy**: Chiến lược kinh doanh sẽ trả lời cho câu hỏi **How**, làm thế nào tổ chức đạt được sứ mệnh được đặt ra trong thời gian sắp tới.
-- **Strategic Business Initiatives**: Kế hoạch chiến lược kinh doanh sẽ trả lời cho câu hỏi **What**, kế hoạch của tổ chức là gì để đạt được chiến lược kinh doanh trong thời gian sắp tới, thường bao gồm mục tiêu kinh doanh, mục tiêu tài chính, chỉ tiêu và khung thời gian. (business objectives, financial targets, metrics, and time frames.)
-- **Business Entities**: Là các thực thể hay đối tượng vật lý (khách hàng, trạm năng lượng, tàu hỏa,...) mà Strategic Business Initiatives muốn tìm hiểu, dự đoán, tác động tới hành vi (người) hay hiệu suất (vật). Đôi khi Business Entities được gọi là **Strategic Nouns**.
+- **Business Strategy**: Chiến lược kinh doanh sẽ trả lời cho câu hỏi **How**, làm thế nào tổ chức đạt được sứ mệnh được đặt ra trong 2-3 năm **<2-3 years>**.
+- **Strategic Business Initiatives**: Kế hoạch chiến lược kinh doanh sẽ trả lời cho câu hỏi **What**, kế hoạch của tổ chức là gì để đạt được chiến lược kinh doanh trong **<9-12 months>**, thường bao gồm mục tiêu kinh doanh, mục tiêu tài chính, chỉ tiêu và khung thời gian. (business objectives, financial targets, metrics, and time frames.)
+- **Business Entities**: Là các thực thể hay đối tượng vật lý (khách hàng, trạm năng lượng, tàu hỏa,...) mà Strategic Business Initiatives muốn tìm hiểu, dự đoán, tác động tới hành vi (người) hay hiệu suất (vật) **<Which the Strategic Business Initiatives try to understand, predict, influence behaviors>**. Đôi khi Business Entities được gọi là **Strategic Nouns**.
 - **Business Stakeholders**: Là những chức năng kinh doanh (sales, marketing, finance, store operations, logistics,...) ảnh hưởng hoặc bị ảnh hưởng bởi Strategic Business Initiatives.
-- **Business Decision**: Là những quyết định mà Business Stakeholders cần để hỗ trợ cho Strategic Business Initiatives.
+- **Business Decision**: Là những quyết định mà **Business Stakeholders** cần để hỗ trợ cho Strategic Business Initiatives.
 - **Big Data Use cases**: Là những **analytic use cases** (bao gồm các quyết định và hành động tương ứng) hỗ trợ cho Strategic Business Initiatives
 - **Data**: Nguồn dữ liệu có cấu trúc hoặc phi cấu trúc, cả nguồn dữ liệu nội bộ hoặc nguồn dữ liệu bên ngoài, được xác định xuyên suốt quy trình chiến lược Big Data
 
+#### 3.2. Introducing the Big Data Strategy Document
+Big Data Strategy Document có hiệu quả bởi vì:
+- **It's consise**: Vừa vặn trong 1 trang giấy và có thể review nhanh chóng
+- **It's clear**: Định nghĩa những việc phải làm để đạt được Business Initiatives
+- **It's business relevant**: Bắt đầu bằng việc tập trung vào **Business Strategy** và hỗ trợ **Initiatives** trước khi đi sâu vào **Data** và **Technology Requirements**
+
 ![big data strategy document](https://dungnv0696.github.io/nhathomongmo/assets/img/big_data_strategy_document.png)
 
+Big Data strategy document được phân rã thành 5 thành phần sau:
+- **Business strategy**
+- **Key business initiatives**
+- **Key business entities**
+- **Key decisions**
+- **Financial drivers (use cases)**
 
-
+#### 3.3. Identify the Organization's Key Business Initiatives
+Business initiatives hỗ trợ business strategy và có các đặc điểm sau:
+- Quan trọng đối với hoạt động kinh doanh hoặc tài chính ngắn hạn (thường **9-12 months time frame**). Nguyên nhân giai đoạn này chỉ trong 9-12 tháng là vì:
+    - Tập trung nỗ lực của tổ chức vào giá trị liên quan đến kinh doanh trước mắt **< Immediate value and relevance to the business >**
+    - Tạo cảm giác cấp bách **< Create sense of urgency >** cho doanh nghiệp để hoạt động nhanh chóng và hiệu quả.
+    - Cung cấp cơ hội thực tế mang lại ROI dương và thu hồi vốn trong 12 tháng. **<more realistic chance for positive ROI and financial payback in 12 months>**
 
