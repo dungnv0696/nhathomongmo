@@ -172,7 +172,7 @@ Big Data strategy document được phân rã thành 5 thành phần sau:
 - **Key business initiatives**
 - **Key business entities**
 - **Key decisions**
-- **Financial drivers (use cases)**
+- **Financial drivers (use cases)** ~ themes
 
 #### 3.3. Identify the Organization's Key Business Initiatives
 Business initiatives hỗ trợ business strategy và có các đặc điểm sau:
@@ -180,4 +180,33 @@ Business initiatives hỗ trợ business strategy và có các đặc điểm sa
     - Tập trung nỗ lực của tổ chức vào giá trị liên quan đến kinh doanh trước mắt **< Immediate value and relevance to the business >**
     - Tạo cảm giác cấp bách **< Create sense of urgency >** cho doanh nghiệp để hoạt động nhanh chóng và hiệu quả.
     - Cung cấp cơ hội thực tế mang lại ROI dương và thu hồi vốn trong 12 tháng. **<more realistic chance for positive ROI and financial payback in 12 months>**
+
+- Communicated (cả nội bộ <internally> và công khai <publicly>)
+- Đa chức năng **<Cross-functional>** (Tham gia một hoặc nhiều mục tiêu kinh doanh)
+- Được sở hữu hoặc điều hành bởi một giám đốc điều hành cấp cao **< a senior business executive>**
+- Có mục tiêu tài chính có thể đo lường được.
+- Có khung thời gian chuyển tiếp được xác định rõ ràng **<well-defined delivery time frame>**
+- Mang lại lợi thế cạnh tranh và tài chính hấp dẫn **< delivers financial or competitive advantage>**
+
+#### 3.4. Identify Key Business Entities and Key Decisions
+Business entities hay strategic nouns là các đối tượng mà Business initiative phải tập trung nhắm đến, với mỗi business initiative không nên có quá 3-5 strategic nouns.
+- **Example**: Stores, Local Event, Local Competitors
+
+Với mỗi strategic nouns vừa được định nghĩa, cần suy nghĩ để tìm ra các analytic insights muốn nắm bắt tương ứng.
+- **Example**: Stores—For each individual store, understand in-store traffic patterns, nearby customer demographics, most popular market basket combinations, customer product preferences (by time of day, day of week, seasonality, and holidays), weather conditions, outside traffic conditions, local economic situation, local home values, nearby schools and colleges, Yelp rating, social media sentiment, and so forth
+
+Tiếp theo, định nghĩa **business decisions** cần thiết về các business entities quan trọng để hỗ trợ cho mục tiêu của business initiative.
+- **Example**: Business entity: Stores
+  - How much staffing, inventory, and ingredients do I need for the upcoming weekend given the local events?
+  - How much staffing, inventory, and ingredients do I need given upcoming holidays and seasonal events?
+  - How much staffing, inventory, and ingredients do I need for Friday local business catering?
+  - How much staffing, inventory, and ingredients do I need for local high school demand (school in-session versus school out-of-session)?
+  - What are the ideal hours of operations for the upcoming high school football season?
+  
+#### 3.5. Identify Financial Drivers (Use Cases)
+Ở bước này, ta sẽ gom nhóm các quyết định thành các use cases (themes) phổ biến dựa trên sự tương đồng về mục tiêu kinh doanh.
+
+![Completed Chipotle big data strategy document](https://dungnv0696.github.io/nhathomongmo/assets/img/completed_chipotle_big_data_strategy_document.png)
+
+#### 3.6 Identify and Prioritize Data Sources
 
