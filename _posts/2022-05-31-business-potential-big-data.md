@@ -209,4 +209,15 @@ Tiếp theo, định nghĩa **business decisions** cần thiết về các busin
 ![Completed Chipotle big data strategy document](https://dungnv0696.github.io/nhathomongmo/assets/img/completed_chipotle_big_data_strategy_document.png)
 
 #### 3.6 Identify and Prioritize Data Sources
+Khi đã định nghĩa được use cases, ta cần phải định nghĩa các nguồn dữ liệu có thể tạo nên insights cho Business Initiative.
+Tuy nhiên không phải nguồn dữ liệu nào cũng có giá trị và có tính khả thi trong việc triển khai như nhau, vì vậy ta cần xem xét các tiêu chí sau:
+- Giá trị kinh doanh **< business value>** mà nguồn dữ liệu có thể mang lại khi ứng dụng vào use case cụ thể.
+- Tính khả thi trong việc thu thập, làm sạch, chuẩn hóa, làm giàu và phân tích nguồn dữ liệu đó.
+
+#### 3.7. Introducing the Prioritization Matrix
+Cuối cùng, ta phải xây dựng được ma trận ưu tiên cho các use case để đánh giá xem use case nào tiềm năng về cả Business Value và Implementation Feasibility.
+
+![Prioritization Matrix](https://dungnv0696.github.io/nhathomongmo/assets/img/prioritization_matrix.png)
+
+### Chapter 4: The importance of the User Experience
 
